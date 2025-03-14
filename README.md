@@ -19,11 +19,13 @@
 
 使用するAPI
 - LINE Message API（通知用）
+  
     参考URL: https://qiita.com/MikH/items/d9876b6e50f7c8510d0b
 - OPEN UV API（UV情報取得用）
 
 使用するスクレイピングサイト
 - xxxxx（天気、花粉情報）
+  
     利用規約によりスクレイピングが禁止されているため、名前を伏せます。利用する場合は、自己責任でお願いします
 
 ## インストール
