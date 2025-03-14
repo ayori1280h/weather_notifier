@@ -3,7 +3,7 @@
 ## 概要
 このプロジェクトは、Google Apps Script（GAS）を使用して、指定した地域の天気情報を取得し、LINEに通知するアプリです。ユーザーは、特定の時間に天気情報を受け取ることができます。
 <p align="center">
-  <img src="assets/screenshot/img.webp" alt="App Demo" width="700">
+  <img src="assets/screenshot/img.webp" alt="App Demo" width="400">
 </p>
 
 ## 通知情報
